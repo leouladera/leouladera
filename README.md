@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/aderaleoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aderaleoul" height="30" width="40" /></a>
 <a href="https://instagram.com/leoul.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leoul.a" height="30" width="40" /></a>
+<a href='https://t.me/leouladera' target='_blank'><img src='https://i.postimg.cc/XXFqRp5Y/Telegram-logo.png' alt='Telegram-logo' width='60'/></a>
 </p>
 <p align="left">
 </p>
