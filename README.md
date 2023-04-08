@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I'M liverpool fan**
 
-- 🧑‍💻 Contact me on [**TELEGRAM**](https://t.me/leouladera)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/aderaleoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aderaleoul" height="30" width="40" /></a>
