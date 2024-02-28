@@ -5,13 +5,13 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leouladera&label=Profile%20views&color=0e75b6&style=flat" alt="leouladera" /> </p>
 
-- 🔭 I’m currently working on JavaScript **java projects**
+- 🔭 I’m currently working on  **PORTFOLIO**
 
-- 🌱 I’m currently learning **Java script, HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS**
 
 - 👯 I’m looking to collaborate on **web devlopment and web designing**
 
-- 🤝 I’m looking for help with **javascript**
+- 🤝 I’m looking for help with **CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leouladera](https://github.com/leouladera)
 
